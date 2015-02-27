@@ -9,7 +9,7 @@ server and chrome driver.
 
 It will install a `start-selenium`.
 
-Currently installs selenium `2.43.1` and chrome driver `2.9`.
+Currently installs selenium `2.44.0` and chrome driver `2.14`.
 
 ```shell
 npm install --production selenium-standalone@latest -g
